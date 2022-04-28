@@ -43,7 +43,6 @@ public void TC_03_LoginFormDisplayed() {
 
 @AfterClass
 public void afterClass() {
-	// quit
 	driver.quit();
 }
 }
